@@ -2914,7 +2914,7 @@ input, select, textarea {
 
 	#header {
 		padding: 9em 0 9em 0 ;
-		background-color: #4686a0;
+		background-color: #d76d1c;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #d5a22c 5%, #d76d1c 30%, #d4321d);
@@ -2977,7 +2977,7 @@ input, select, textarea {
 			#header .button.primary {
 				background-color: #ffffff;
 				box-shadow: inset 0 0 0 1px #ffffff !important;
-				color: #4686a0 !important;
+				color: #d76d1c !important;
 			}
 
 				#header input[type="submit"].primary:hover,
@@ -3076,7 +3076,7 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			background-image: linear-gradient(45deg, #db9615, #c43718);
 			content: '';
 			height: 100%;
 			left: 0;
